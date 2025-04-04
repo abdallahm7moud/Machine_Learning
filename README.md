@@ -55,4 +55,4 @@ These models analyze unlabeled data to find patterns:
 ## 📌 Requirements  
 - Python 3.x  
 - Jupyter Notebook  
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
+- NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn 
